@@ -1,9 +1,6 @@
 # Hi, Nicolas is my name
 
-Full-stack web developer with a solid front-end background and growing experience
-in back-end development. Focused on building user-centric digital products and
-continuously improving technical and collaborative skills. Comfortable working with
-cross-functional teams to help deliver scalable, maintainable solutions.
+Full-stack web developer creating digital things
 
 📫 `zerkeizi@proton.me`  
 🔗 [linkedin.com/in/nicolaspassos](https://www.linkedin.com/in/nicolasvn)
