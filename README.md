@@ -3,7 +3,7 @@
 Full-stack web developer creating digital things
 
 📫 `zerkeizi@proton.me`  
-🔗 [linkedin.com/in/nicolaspassos](https://www.linkedin.com/in/nicolasvn)
+🔗 [linkedin.com/in/nicolasvn](https://www.linkedin.com/in/nicolasvn)
 
 ### 🛠 Tech Skills
 
